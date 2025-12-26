@@ -18,7 +18,7 @@ I enjoy turning raw data into clear insights using **Python, SQL, Excel, and vis
 ### 📌 Featured Projects
 - Churn Prediction  
 - Loan Default Risk Analysis  
-- Urban Flood Risk Data Analysis (capstone-inspired)
+- AI-Based Urban Flood Risk Prediction System (capstone-inspired)
 
 ### 🌱 Currently Learning
 - Improving data storytelling and dashboard design
