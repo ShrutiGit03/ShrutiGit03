@@ -23,7 +23,7 @@ I enjoy turning raw data into clear insights using **Python, SQL, Excel, and vis
 ### 🌱 Currently Learning
 - Improving data storytelling and dashboard design
 
-📫 Reach me on LinkedIn: [https://www.linkedin.com/in/shruti-jha-tech/]
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/shruti-jha-tech/
 <!--
 **ShrutiGit03/ShrutiGit03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
