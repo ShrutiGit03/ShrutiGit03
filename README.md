@@ -11,7 +11,7 @@ I enjoy turning raw data into clear insights using **Python, SQL, Excel, and vis
 ### 🛠️ Tools & Skills
 - **Languages:** Python (Pandas, NumPy), SQL  
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
-- **Visualization:** Matplotlib, Power BI / Tableau  
+- **Visualization:** Matplotlib, Power BI, Tableau  
 - **Databases:** MySQL   
 - **Tools:** Excel, Git
 
